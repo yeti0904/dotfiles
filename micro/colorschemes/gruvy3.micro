@@ -1,0 +1,27 @@
+color-link default             "white"
+color-link namespaces          "brightyellow"
+color-link global-include      "brightgreen"
+color-link property            "brightblue"
+color-link variable            "brightblue"
+color-link comment             "green" #hi
+color-link constant            "brightmagenta"
+color-link constant.string     "brightgreen"
+color-link identifier          "brightblue"
+color-link statement           "brightred"
+color-link symbol              "white"
+color-link preproc             "brightmagenta"
+color-link type                "brightred" # brightyellow
+color-link special             "brightcyan" # brightyellow
+color-link functions           "brightyellow" # brightyellow
+color-link underlined          "underline brightgreen"
+color-link error               "brightred"
+color-link scrollbar           "brightblack,brightblack"
+color-link divider             "green,green"
+color-link symbol.operator     "brightcyan"
+color-link todo                "bold brightgreen"
+color-link line-number         "brightblack"
+color-link current-line-number "white,brightblack"
+color-link cursor-line "brightblack"
+color-link color-column        "brightblack,white"
+color-link statusline          "black,green"
+color-link tabbar              "green"

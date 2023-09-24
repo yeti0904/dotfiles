@@ -1,0 +1,9 @@
+{
+    "basename": true,
+    "colorcolumn": 85,
+    "colorscheme": "gruvy3",
+    "cursorline": false,
+    "linter": false,
+    "savecursor": true,
+    "saveundo": true
+}
